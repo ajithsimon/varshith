@@ -17496,7 +17496,7 @@ address {
 */
 .form-control {
   border-width: 1px;
-  border-top-color: #bdc0c7;
+  border-color: #999;
   box-shadow: none;
   padding: 10px 12px;
   font-size: 15px;
